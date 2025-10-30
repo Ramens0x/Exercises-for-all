@@ -1,7 +1,0 @@
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\bin\Debug\BubbleSort-J1.S.P0001.exe.config
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\bin\Debug\BubbleSort-J1.S.P0001.exe
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\bin\Debug\BubbleSort-J1.S.P0001.pdb
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\obj\Debug\BubbleSort-J1.S.P0001.csproj.AssemblyReference.cache
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\obj\Debug\BubbleSort-J1.S.P0001.csproj.CoreCompileInputs.cache
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\obj\Debug\BubbleSort-J1.S.P0001.exe
-D:\Exercises-for-all\Exercises-from-friends\BubbleSort-J1.S.P0001\BubbleSort-J1.S.P0001\obj\Debug\BubbleSort-J1.S.P0001.pdb
